@@ -419,9 +419,7 @@ footer {
     color: #ffffff;
     text-shadow:
         0 0 5px #ffffff,
-        0 0 10px #ffffff,
-        0 0 20px #ffffff,
-        0 0 40px #ffffff;
+        0 0 10px #ffffff;
     transform: scale(1.15);
 }
 
@@ -575,3 +573,4 @@ body.loading > *:not(#loader) {
     }
 
 }
+
