@@ -1,1 +1,0 @@
-# Aditya-Bikram-Nayak
